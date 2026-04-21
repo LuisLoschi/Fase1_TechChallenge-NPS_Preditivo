@@ -6,10 +6,9 @@
 
 
 ## 🎯 Objetivo do Projeto
-Este projeto simula um cenário real de e-commerce onde o crescimento acelerado gerou instabilidade no **NPS (Net Promoter Score)**. O desafio consiste em transformar dados operacionais (logística, pedidos e atendimento) em **decisões embasadas**, permitindo que a empresa aja de forma proativa antes mesmo da aplicação da pesquisa de satisfação.
+Este projeto simula um cenário de e-commerce onde o crescimento acelerado gerou instabilidade no **NPS (Net Promoter Score)**. O desafio consiste em transformar dados operacionais em **decisões embasadas**, permitindo que a empresa aja de forma proativa com base em dados.
 
-O foco principal é o **Storytelling com Dados**: traduzir métricas técnicas em recomendações estratégicas para as áreas de Logística, Atendimento e Produto.
-
+O foco principal é o **Storytelling com Dados**: traduzir métricas técnicas em recomendações estratégicas para a empresa.
 
 ## 🛠️ Metodologia e Desenvolvimento
 O projeto seguiu a estrutura do framework CRISP-DM (Cross Industry Standard Process for Data Mining) que adota um padrão da indústria sólido e cíclico, para o desenvolver projetos de Data Science e Machine Learning que agregam valor de negócio, indo muito além da simples aplicação de algoritmos técnicos.
