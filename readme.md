@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Static Badge](https://img.shields.io/badge/Status-Done-green)
 
+Grupo: Eduardo Rossi | Luis Loschi | Luiza Santos | Vitória Santos | Vyctor Correia
+
 ## 📌 Sumário
 - [Objetivo do Projeto](#objetivo-do-projeto)
 - [Problema do Negócio](#problema-do-negocio)
