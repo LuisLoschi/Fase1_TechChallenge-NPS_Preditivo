@@ -1,0 +1,17 @@
+﻿arquivo,caminho
+01_distribuicao_nps.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\01_distribuicao_nps.png
+02_distribuicoes_variaveis_chave.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\02_distribuicoes_variaveis_chave.png
+03_outliers_por_categoria_nps.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\03_outliers_por_categoria_nps.png
+04_matriz_correlacao.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\04_matriz_correlacao.png
+05_correlacoes_com_nps.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\05_correlacoes_com_nps.png
+06_metricas_operacionais_por_nps.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\06_metricas_operacionais_por_nps.png
+07_pontos_ruptura_operacionais.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\07_pontos_ruptura_operacionais.png
+00_resumo_executivo_nps.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\00_resumo_executivo_nps.png
+08_delivery_time_nps.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\08_delivery_time_nps.png
+09_ruptura_regional_delivery_delay_days.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\09_ruptura_regional_delivery_delay_days.png
+09_ruptura_regional_customer_service_contacts.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\09_ruptura_regional_customer_service_contacts.png
+09_ruptura_regional_complaints_count.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\09_ruptura_regional_complaints_count.png
+10_nps_por_regiao.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\10_nps_por_regiao.png
+11_matriz_confusao_classificador.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\11_matriz_confusao_classificador.png
+12_precision_recall_classes.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\12_precision_recall_classes.png
+13_importancia_variaveis_random_forest.png,c:\Projetos\FIAP\fase1\tech-challenge\reports\13_importancia_variaveis_random_forest.png

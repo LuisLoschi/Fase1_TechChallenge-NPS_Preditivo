@@ -1,0 +1,18 @@
+{
+  "customer_age": "int64",
+  "customer_region": "object",
+  "customer_tenure_months": "int64",
+  "order_value": "float64",
+  "items_quantity": "int64",
+  "discount_value": "float64",
+  "payment_installments": "int64",
+  "delivery_time_days": "int64",
+  "delivery_delay_days": "int64",
+  "freight_value": "float64",
+  "delivery_attempts": "int64",
+  "customer_service_contacts": "int64",
+  "resolution_time_days": "int64",
+  "complaints_count": "int64",
+  "age_group": "object",
+  "tenure_group": "object"
+}

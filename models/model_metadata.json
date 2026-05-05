@@ -1,0 +1,55 @@
+{
+  "project": "Tech Challenge Fase 1 - NPS Preditivo",
+  "training_date": "2026-04-29",
+  "random_state": 42,
+  "targets": {
+    "regression": {
+      "target": "nps_score",
+      "model_name": "nps_regressor",
+      "model_type": "GradientBoostingRegressor",
+      "artifact": "nps_regressor.joblib",
+      "prediction_output": "Nota prevista de NPS em escala de 0 a 10",
+      "metrics": {
+        "r2_holdout": 0.643,
+        "rmse_holdout": 1.5,
+        "mae_holdout": 1.2
+      }
+    },
+    "classification": {
+      "target": "nps_category",
+      "model_name": "nps_classifier",
+      "model_type": "RandomForestClassifier calibrated",
+      "artifact": "nps_classifier.joblib",
+      "prediction_output": "Categoria prevista de NPS: Detrator, Neutro ou Promotor",
+      "metrics": {
+        "accuracy_holdout": 0.856,
+        "f1_macro_holdout": 0.796,
+        "f1_weighted_holdout": 0.843
+      }
+    }
+  },
+  "features": [
+    "customer_age",
+    "customer_region",
+    "customer_tenure_months",
+    "order_value",
+    "items_quantity",
+    "discount_value",
+    "payment_installments",
+    "delivery_time_days",
+    "delivery_delay_days",
+    "freight_value",
+    "delivery_attempts",
+    "customer_service_contacts",
+    "resolution_time_days",
+    "complaints_count",
+    "age_group",
+    "tenure_group"
+  ],
+  "leakage_columns_excluded": [
+    "csat_internal_score",
+    "repeat_purchase_30d"
+  ],
+  "production_constraint": "Aplicar em pedidos com dados operacionais consolidados antes da pesquisa NPS. Não utilizar variáveis posteriores ou simultâneas à satisfação do cliente.",
+  "business_use": "Apoiar a priorização de clientes com risco de detratação para ações preventivas de CX, logística e atendimento."
+}
