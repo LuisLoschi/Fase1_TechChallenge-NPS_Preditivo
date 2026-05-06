@@ -284,7 +284,7 @@ probabilidades_df = pd.DataFrame(probabilidades, columns=classes)
 <a id="principais-insights-de-negocio"></a>
 ## 📋 Principais insights de negócio
 
-- A base apresenta forte concentração de **Detratores**, com 74,0% dos registros.
+- A base apresenta forte concentração de **Detratores**, com 84,0% dos registros.
 - O NPS agregado da base é **-66,0**, indicando uma experiência geral negativa.
 - O principal fator operacional associado à queda do NPS é o **atraso na entrega**.
 - O ponto de ruptura mais relevante ocorre já a partir de **1 dia de atraso**.
