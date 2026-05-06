@@ -240,7 +240,7 @@ Ao final da execução, serão gerados:
 - modelos treinados em `models/`;
 - metadata do modelo;
 - schema das features;
-- figuras exportadas em `reports/`.
+- figuras exportadas em `reports/`;
 
 <a id="como-usar-os-modelos-treinados"></a>
 ## 🔖 Como usar os modelos treinados
